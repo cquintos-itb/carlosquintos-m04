@@ -4,25 +4,22 @@ body{
     color: #191919;
 }
 header{
-    padding-bottom: 10px;
-    padding-left: 20px;
-    padding-right: 20px;
     width: 100%;
+    background-color: greenyellow;
 }
 nav{
     text-align: center;
 }
 aside{
+    width: 20%;
     float: right;
-    padding-right: 20px;
+    background-color: aquamarine;
 }
-section{
-    padding-right: 10px;
-    padding-left: 20px;
+main{
+    background-color: bisque;
+    width: 80%;
 }
 footer{
-    padding-top: 10px;
-    padding-left: 20px;
-    padding-right: 20px;
     width: 100%;
+    background-color: blueviolet;
 }
