@@ -1,11 +1,9 @@
-body {
+body{
     font: 12px Arial;
 }
-
-main{
+header{
     text-align: center;
 }
-
-aside {
+aside{
     float: right;
 }
