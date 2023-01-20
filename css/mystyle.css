@@ -7,17 +7,17 @@ header{
     width: 100%;
     background-color: greenyellow;
 }
-nav{
-    text-align: center;
-}
 aside{
     width: 20%;
     float: right;
     background-color: aquamarine;
 }
 main{
-    background-color: bisque;
     width: 80%;
+    background-color: bisque;
+}
+article{
+    padding: 10px;
 }
 footer{
     width: 100%;
