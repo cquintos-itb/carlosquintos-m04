@@ -5,7 +5,10 @@ body{
 }
 header{
     width: 100%;
-    background-color: greenyellow;
+    background-color: #155376;
+}
+hgroup{
+    text-align: center;
 }
 aside{
     width: 20%;
