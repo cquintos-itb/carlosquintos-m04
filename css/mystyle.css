@@ -10,6 +10,15 @@ header{
 hgroup{
     text-align: center;
 }
+.topnav{
+    overflow: hidden;
+    background-color: #191919;
+}
+.topnav a{
+    float: left;
+    color: #fff;
+    padding: 10px;
+}
 aside{
     width: 20%;
     float: right;
