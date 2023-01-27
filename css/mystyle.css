@@ -23,6 +23,7 @@ hgroup{
 }
 aside{
     float: right;
+    padding: 10px;
 }
 main{
     width: 80%;
