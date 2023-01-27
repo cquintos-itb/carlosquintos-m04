@@ -38,7 +38,11 @@ footer{
     background-color: blue;
     overflow: hidden;
 }
-footer h1{
-    padding: 4%;
+footer p{
+    padding: 2%;
+    text-align: center;
+}
+footer a{
+    padding: 1%;
     text-align: center;
 }
