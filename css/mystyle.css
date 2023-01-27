@@ -1,36 +1,39 @@
 body{
-    font-family: 'Times New Roman', Times, serif;
+    font-family: 'Ubuntu', sans-serif;
     font-size: 12px;
     color: #191919;
+    margin: auto;
 }
 header{
     overflow: hidden;
-    background-color: aquamarine;
 }
 header h1{
+    float: left;
     padding: 10px;
-    text-align: center;
+}
+header img{
+    width: 15%;
+    float: left;
+    padding: 20px;
 }
 nav{
     overflow: hidden;
-    background-color: aqua;
+    background-color: #191919;
 }
 nav a{
     float: left;
     padding: 10px;
+    color: #fff;
 }
 aside{
-    overflow: hidden;
     background-color: blueviolet;
     float: right;
 }
 main{
     background-color: gray;
-    overflow: hidden;
 }
 footer{
     background-color: blue;
-    overflow: hidden;
 }
 footer h1{
     padding: 10px;
