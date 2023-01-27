@@ -3,12 +3,36 @@ body{
     font-size: 12px;
     color: #191919;
 }
+header{
+    overflow: hidden;
+    background-color: aquamarine;
+}
+header h1{
+    padding: 10px;
+    text-align: center;
+}
 nav{
     overflow: hidden;
-    background-color: #191919;
+    background-color: aqua;
 }
 nav a{
     float: left;
-    color: #fff;
     padding: 10px;
+}
+aside{
+    overflow: hidden;
+    background-color: blueviolet;
+    float: right;
+}
+main{
+    background-color: antiquewhite;
+    overflow: hidden;
+}
+footer{
+    background-color: blue;
+    overflow: hidden;
+}
+footer h1{
+    padding: 10px;
+    text-align: center;
 }
