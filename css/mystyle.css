@@ -9,12 +9,12 @@ header{
 }
 header h1{
     float: left;
-    padding: 10px;
+    padding: 2%;
 }
 header img{
     width: 15%;
     float: left;
-    padding: 20px;
+    padding: 4%;
 }
 nav{
     overflow: hidden;
@@ -22,7 +22,7 @@ nav{
 }
 nav a{
     float: left;
-    padding: 10px;
+    padding: 2%;
     color: #fff;
 }
 aside{
@@ -36,6 +36,6 @@ footer{
     background-color: blue;
 }
 footer h1{
-    padding: 10px;
+    padding: 4%;
     text-align: center;
 }
