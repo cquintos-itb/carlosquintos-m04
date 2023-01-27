@@ -22,15 +22,28 @@
             <a target="_blank" href="index.html">Index</a>
             <a target="_blank" href="e2Formulari.html">Formulari</a>
         </nav>
-        <aside>
-            <a>Aside</a>
-        </aside>
         <main>
-            <section>
-                <article>
-                    <p>Main</p>
-                </article>
-            </section>
+            <fieldset>
+                <div>
+                    <label for="name">Name:</label>
+                    <br>
+                    <input type="text" id="name" name="name">
+                </div>
+                <br>
+                <div>
+                    <label for="correu">Correu electrònic:</label>
+                    <br>
+                    <input type="email" id="correu" name="correu">
+                </div>
+                <br>
+                <div>
+                    <label for="mssg">Missatge:</label>
+                    <br>
+                    <textarea id="msg" name="msg"></textarea>
+                </div>
+                <br>
+                <button type="submit">Enviar</button>                
+        </fieldset>
         </main>
         <footer>
             <h1>Footer</h1>
