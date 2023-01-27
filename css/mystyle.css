@@ -33,7 +33,8 @@ article{
 }
 footer{
     width: 100%;
-    background-color: #155376;
+    background-color: #191919;
+    color: #fff;
 }
 div{
     padding: 10px;
